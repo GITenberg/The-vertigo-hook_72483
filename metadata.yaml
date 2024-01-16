@@ -1,5 +1,8 @@
 _repo: The-vertigo-hook_72483
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72483-h/images/cover.jpg
 creator:
   author:
     agent_name: Ashby, Richard
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '53250'
     url: http://www.gutenberg.org/2009/agents/53250
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72483#The-vertigo-hook
 gutenberg_issued: '2023-12-23'
 gutenberg_type: Text
 identifiers:
